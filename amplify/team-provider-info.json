@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-switcheroo-dev-204341-authRole",
+      "UnauthRoleArn": "arn:aws:iam::543682040451:role/amplify-switcheroo-dev-204341-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::543682040451:role/amplify-switcheroo-dev-204341-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-switcheroo-dev-204341-deployment",
+      "UnauthRoleName": "amplify-switcheroo-dev-204341-unauthRole",
+      "StackName": "amplify-switcheroo-dev-204341",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:543682040451:stack/amplify-switcheroo-dev-204341/e93b92a0-1cc3-11ee-a001-0a28da8e14b0",
+      "AmplifyAppId": "d25xiqt9twrem6"
+    }
+  }
+}
